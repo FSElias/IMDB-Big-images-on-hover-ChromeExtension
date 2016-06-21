@@ -15,3 +15,14 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+node_modules
+temp
+.tmp
+dist
+.sass-cache
+app/bower_components
+test/bower_components
+package
+
+
